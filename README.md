@@ -1,1 +1,3 @@
 ## UPENN_DSBC_Credit_Risk_Classification
+
+##### This was another straightforward challenge. The lessons from class provided the necessary information required to successfully complete this challenge. I reviewed all of the class materials while working through this challenge. Geeks for Geeks, W3Schools, and Stack Overflow are all good sources when needed, as well as Pandas Docs. I reference these additional sources for assistance whenever necessary.

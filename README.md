@@ -28,16 +28,16 @@
 
 ##### Balanced Accuracy Score: 0.9520479254722232
 
-##### Classification Report
-#####
-#####              precision    recall  f1-score   support
-#####
-#####            0       1.00      0.99      1.00     18765
-#####            1       0.85      0.91      0.88       619
-#####
-#####     accuracy                           0.99     19384
-#####    macro avg       0.92      0.95      0.94     19384
-##### weighted avg       0.99      0.99      0.99     19384
+#### Classification Report
+
+              precision    recall  f1-score   support
+
+            0       1.00      0.99      1.00     18765
+            1       0.85      0.91      0.88       619
+
+     accuracy                           0.99     19384
+    macro avg       0.92      0.95      0.94     19384
+ weighted avg       0.99      0.99      0.99     19384
 
 ##### Machine Learning Model 2:
 ##### Description of Model 2 Accuracy, Precision, and Recall scores.
